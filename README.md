@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Simon Greenwold
 - 👀 I’m interested in all kinds of software development, diagrams, and graphical languages.
-- 🌱 I’m currently learning distributed systems design
 - 📫 You can reach me at simon.greenwold@gmail.com
